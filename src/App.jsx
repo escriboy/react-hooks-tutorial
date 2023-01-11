@@ -1,6 +1,6 @@
 import React from "react";
-import Average from "./components/Average";
+import Info from "./components/Info";
 
 export default function App() {
-  return <Average />;
+  return <Info />;
 }
