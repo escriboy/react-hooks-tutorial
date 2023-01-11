@@ -1,7 +1,6 @@
-import React, { useState } from "react";
-import Counter from "./components/Counter";
+import React from "react";
 import Info from "./components/Info";
 
 export default function App() {
-  return <Counter />;
+  return <Info />;
 }
